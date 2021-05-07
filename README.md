@@ -1,8 +1,8 @@
 ### Hey, I'm Haider 👋
-[![Banner](https://github.com/HaiderZaidiDev/HaiderZaidiDev/blob/master/banner-v5.png)](https://haiderzaidi.ca)
 
 As a developer and someone who loves creating things; my background deviates from one of a traditional business student, empowering me to attack problems through multiple perspectives, sync well with cross-functional teams and hold a deep understanding in what makes an exemplary product.
 
+## Projects :space_invader:
 Here's some _interesting projects_ I have recently worked on:
 - **[Webumé](https://webume.ca):** A web-app for students to create their own website-based resumés to stand out in recruiting.
 - **[Twitter Clone](https://github.com/HaiderZaidiDev/twitter-clone):** A twitter-clone featuring tweets, likes, retweets, link recognition and spam filters.
@@ -20,3 +20,4 @@ And a couple of _smaller projects_ I'm proud of:
 - [Linkedin](https://haiderzaidi.ca/linkedin)
 - [Twitter](https://haiderzaidi.ca/twitter)
 
+![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=haiderzaididev&show_icons=true&theme=tokyonight)
