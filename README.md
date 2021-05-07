@@ -16,7 +16,7 @@ And a couple of _smaller projects_ I'm proud of:
 
 
 ## Checkout my socials! :ocean:
-- If you're interested in learning more about me and my projects, checkout my [personal website](https://haiderzaidi.ca)! 
+- [Personal website](https://haiderzaidi.ca)
 - [Linkedin](https://haiderzaidi.ca/linkedin)
 - [Twitter](https://haiderzaidi.ca/twitter)
 
