@@ -4,15 +4,15 @@ As a developer and someone who loves creating things; my background deviates fro
 
 ## Projects :space_invader:
 Here's some _interesting projects_ I have recently worked on:
-- **[Webumé](https://webume.ca):** A web-app for students to create their own website-based resumés to stand out in recruiting.
-- **[Twitter Clone](https://github.com/HaiderZaidiDev/twitter-clone):** A twitter-clone featuring tweets, likes, retweets, link recognition and spam filters.
-- **[Assignment Tracker](https://github.com/HaiderZaidiDev/canvas-assignments-tracker):** A website which generates spreadsheets for students at my University with their coursework for the semester.
-- **[Finacial Data](https://github.com/HaiderZaidiDev/Financial-Data-Scraper):** A financial data scraper with fetches over 25 financial ratios, querying and plotting share prices from a REST API.
+- **[Webumé](https://webume.ca):** A web-app for students to create their own website-based resumés (Python/Django)
+- **[Twitter Clone](https://github.com/HaiderZaidiDev/twitter-clone):** A twitter-clone featuring tweets, likes, retweets, link recognition and spam filters (React/Node.js).
+- **[Assignment Tracker](https://github.com/HaiderZaidiDev/canvas-assignments-tracker):** A website which generates spreadsheets for students at my University with their coursework for the semester (Python/Django).
+- **[Finacial Data](https://github.com/HaiderZaidiDev/Financial-Data-Scraper):** A financial data scraper with fetches over 25 financial ratios, querying and plotting share prices from a REST API (Python/Django).
 
 And a couple of _smaller projects_ I'm proud of:
-- A [web-app](https://github.com/HaiderZaidiDev/Coffee-Returns) that calculates the opportunity cost of buying Starbucks vs. Investing in the S&P 500
-- A [script](https://github.com/HaiderZaidiDev/starbucks-menu-scraper) that scrapes Starbucks' revenue, using Monte Carlo to simulate orders and yearly revenue.
-- An [app](https://github.com/HaiderZaidiDev/eventbrite-ticket-booking) that books timeslots for my apartment's gym.
+- A [web-app](https://github.com/HaiderZaidiDev/Coffee-Returns) that calculates the opportunity cost of buying Starbucks vs. Investing in the S&P 500 (React/Node.js)
+- A [script](https://github.com/HaiderZaidiDev/starbucks-menu-scraper) that scrapes Starbucks' revenue, using Monte Carlo to simulate orders and yearly revenue (Python, BeautifulSoup).
+- An [app](https://github.com/HaiderZaidiDev/eventbrite-ticket-booking) that books timeslots for my apartment's gym (Python, BeautifulSoup, Selenium).
 
 
 ## Checkout my socials! :ocean:
