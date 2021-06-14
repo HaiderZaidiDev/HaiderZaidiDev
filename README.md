@@ -7,7 +7,7 @@ Here's some _interesting projects_ I have recently worked on:
 - **[Webumé](https://webume.ca):** A web-app for students to create their own website-based resumés (Python/Django)
 - **[Twitter Clone](https://github.com/HaiderZaidiDev/twitter-clone):** A twitter-clone featuring tweets, likes, retweets, link recognition and spam filters (React/Node.js).
 - **[Assignment Tracker](https://github.com/HaiderZaidiDev/canvas-assignments-tracker):** A website which generates spreadsheets for students at my University with their coursework for the semester (Python/Django).
-- **[Finacial Data](https://github.com/HaiderZaidiDev/Financial-Data-Scraper):** A financial data scraper with fetches over 25 financial ratios, querying and plotting share prices from a REST API (Python/Django).
+- **[Finacial Data](https://github.com/HaiderZaidiDev/Financial-Data-Scraper):** A financial data scraper which fetches over 25 financial ratios, querying and plotting share prices from a REST API (Python/Django).
 
 And a couple of _smaller projects_ I'm proud of:
 - A [web-app](https://github.com/HaiderZaidiDev/Coffee-Returns) that calculates the opportunity cost of buying Starbucks vs. Investing in the S&P 500 (React/Node.js)
