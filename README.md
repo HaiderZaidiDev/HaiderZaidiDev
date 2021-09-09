@@ -11,7 +11,7 @@ Here's some _interesting projects_ I have recently worked on:
 - **[Finacial Data](https://github.com/HaiderZaidiDev/Financial-Data-Scraper):** A financial data scraper which fetches over 25 financial ratios, querying and plotting share prices from a REST API (Python/Django).
 
 And a couple of _smaller projects_ I'm proud of:
-- A [Stack Size](https://github.com/HaiderZaidiDev/stacksize) An iOS app for gamers to calculate their stack size in poker with React-Native.
+- [Stack Size](https://github.com/HaiderZaidiDev/stacksize) an iOS app for gamers to calculate their stack size in poker with React-Native.
 - A [web-app](https://github.com/HaiderZaidiDev/Coffee-Returns) that calculates the opportunity cost of buying Starbucks vs. Investing in the S&P 500 (React/Node.js)
 - A [script](https://github.com/HaiderZaidiDev/starbucks-menu-scraper) that scrapes Starbucks' revenue, using Monte Carlo to simulate orders and yearly revenue (Python, BeautifulSoup).
 - An [app](https://github.com/HaiderZaidiDev/eventbrite-ticket-booking) that books timeslots for my apartment's gym (Python, BeautifulSoup, Selenium).
