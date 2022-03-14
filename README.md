@@ -4,7 +4,7 @@ As a developer and someone who loves creating things; my background deviates fro
 
 ## Projects :space_invader:
 Here's some _interesting projects_ I have recently worked on:
-- **[Virtual (AR) Steering Wheel](https://github.com/HaiderZaidiDev?tab=repositories):** An augmented reality steering wheel with Python (OpenCV) and machine learning models from Mediaipe
+- **[Virtual (AR) Steering Wheel](https://github.com/HaiderZaidiDev?tab=repositories):** An augmented reality steering wheel using Python (OpenCV) and machine learning models from Mediapipe
 - **[Webumé](https://webume.ca):** A web-app for students to create their own website-based resumés (Python/Django)
 - **[Twitter Clone](https://github.com/HaiderZaidiDev/twitter-clone):** A twitter-clone featuring tweets, likes, retweets, link recognition and spam filters (React/Node.js).
 - **[Assignment Tracker](https://github.com/HaiderZaidiDev/canvas-assignments-tracker):** A website which generates spreadsheets for students at my University with their coursework for the semester (Python/Django).
