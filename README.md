@@ -1,6 +1,6 @@
 ### Hey, I'm Haider 👋
 
-I'm a business student with a passion for technology and software engineering and I love creating things - placing me in a unique position to attack problems through multiple perspectives, sync-well in cross functional teams, and hold a deep understanding in what makes an exemplary product.
+I'm a business student with a passion for technology, software engineering and creating things - placing me in a unique position to attack problems through multiple perspectives, sync-well in cross functional teams, and hold a deep understanding in what makes an exemplary product.
 
 ## Projects :space_invader:
 Here's some _interesting projects_ I have recently worked on:
@@ -8,8 +8,8 @@ Here's some _interesting projects_ I have recently worked on:
 - **[Virtual Steering Wheel](https://github.com/HaiderZaidiDev?tab=repositories):** An AR-based steering wheel made with pre-trained machine learning models (Python, OpenCV, Mediapipe)
 - **[Webumé](https://webume.ca):** A web-app for students automating the creation of website-based resumés (Python/Django)
 - **[Twitter Clone](https://github.com/HaiderZaidiDev/twitter-clone):** A twitter-clone ft. tweets, likes, retweets, link recognition and spam filters (React/Node.js)
-- **[Assignment Tracker](https://github.com/HaiderZaidiDev/canvas-assignments-tracker):** A website which generates spreadsheets for students at my University with their coursework for the semester (Python/Django).
-- **[Financial Data](https://github.com/HaiderZaidiDev/Financial-Data-Scraper):** A financial data scraper which fetches over 25 financial ratios, querying and plotting share prices from a REST API (Python/Django).
+- **[Assignment Tracker](https://github.com/HaiderZaidiDev/canvas-assignments-tracker):** A website that generates spreadsheets for students at my university with their coursework for the semester (Python/Django).
+- **[Financial Data](https://github.com/HaiderZaidiDev/Financial-Data-Scraper):** A financial data scraper that fetches over 25 financial ratios, querying and plotting share prices from a REST API (Python/Django).
 
 And a couple of _smaller projects_ I'm proud of:
 - An [iOS app](https://github.com/HaiderZaidiDev/stacksize) for gamers to calculate their stack size in poker (React-Native)
